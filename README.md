@@ -8,3 +8,5 @@ Regression & Cross-Validation.
 squared.
  Visualized average metrics through Matplotlib subplots to enhance the interpretability of model performance.
  Carefully selected the best model based on accuracy metrics (Avg. R-squared Value: 0.6518), to predict salaries based on input.
+
+DATA - https://www.kaggle.com/datasets/saquib7hussain/experience-salary-dataset
